@@ -39,6 +39,10 @@ type Module {
   title: String!
   "The Module's length in minutes"
   length: Int
+  "The Module's video url"
+  videoUrl: String!
+  "The modules' content"
+  content: String
 }
 
 "Author of a complete Track"
