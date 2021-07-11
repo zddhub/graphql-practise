@@ -1,10 +1,10 @@
-# Catstronauts
+# Learn GraphQL with Apollo
 
 Apollo's Lift-off course companion app (completed)
 
 [Live Demo App](https://lift-off-client-demo.netlify.app/)
 
-[Course Walk-through on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
+[Course Walk-through on Odyssey](https://odyssey.apollographql.com/)
 
 ## Run the project
 
