@@ -1,5 +1,5 @@
 
-import gql from "apollo-server"
+import { gql } from "apollo-server";
 
 const typeDefs = gql`
 type Query {
@@ -32,4 +32,4 @@ type Author {
 }
 `;
 
-module.exports = typeDefs
+export default typeDefs
